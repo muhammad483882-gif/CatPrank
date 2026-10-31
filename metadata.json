@@ -1,0 +1,6 @@
+{
+  "name": "Cat Prank",
+  "description": "برنامه شوخی و سرگرمی با صداهای خنده‌دار و بامزه گربه، تایمر غافلگیری و میومیوهای تعاملی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
